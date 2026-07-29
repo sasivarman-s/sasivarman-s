@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sasivarman S</h1>
 <h3 align="center">A passionate Junior frontend developer from Chennai,Tamil Nadu,India</h3>
 
+- 🔭 I’m currently working on **React.js mastery**
+
 - 🌱 I’m currently learning **MERN with Ai**
 
-- 👨‍💻 All of my projects are available at [https://sasivarman-s.github.io/portfolio-revamp/](https://sasivarman-s.github.io/portfolio-revamp/)
+- 👨‍💻 All of my projects are available at [https://sasivarman-portfolio.vercel.app/](https://sasivarman-portfolio.vercel.app/)
 
 - 💬 Ask me about **Tailwind CSS and Bootstrap**
 
 - 📫 How to reach me **sasivarman18prvt@gmail.com**
 
+- ⚡ Fun fact **Thinking about website building 24x7😑**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sasivarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sasivarman" height="30" width="40" /></a>
+<a href="https://twitter.com/sasivarman_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sasivarman_100" height="30" width="40" /></a>
 <a href="https://instagram.com/sv_chan_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sv_chan_100" height="30" width="40" /></a>
 </p>
 
