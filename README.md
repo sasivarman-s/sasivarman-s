@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sasivarman S</h1>
+<h1 align="center">Hi 👋, I'm Sasivarman </h1>
 <h3 align="center">A passionate Junior frontend developer from Chennai,Tamil Nadu,India</h3>
 
 - 🔭 I’m currently working on **React.js mastery**
