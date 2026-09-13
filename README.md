@@ -10,12 +10,24 @@
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect with Me
 
 <div align="center">
 
 <a href="https://sasivarman-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://www.instagram.com/sv_chan_100/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://x.com/Sasivarman_100">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+
+<a href="mailto:sasivarman18prvt@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 </div>
@@ -84,3 +96,24 @@ Java
 Spring Boot
   ↓
 Java Full-Stack Development
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sasivarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasivarman&show_icons=true&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is not just about solving problems; it's about creating possibilities!"
+
+*Last updated: September 2026*
+
+</div>
